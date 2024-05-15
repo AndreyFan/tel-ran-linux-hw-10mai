@@ -1,0 +1,16 @@
+   0 tree
+   1 tree /
+   2 cd
+   3 pwd
+   4 ls -la /tmp/
+   5 vi /tmp/file.txt
+   6 df -h
+   7 df -h | head -3
+   8 df -h | head -3 >> /tmp/file.txt
+   9 cat /tmp/file.txt
+  10 chmod g+w /tmp/file.txt
+  11 chmod u-r /tmp/file.txt
+  12 chmod o+x /tmp/file.txt
+  13 ls -la /tmp/
+  14 history
+  15 history > history.txt
